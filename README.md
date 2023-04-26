@@ -36,6 +36,6 @@
 
 ###<ins>Created By</ins>
 
-> - Fatma Seçil ÇAKIR
 > - Bertan MORTAŞ
+> - Fatma Seçil ÇAKIR
 > - Enes DOĞANOĞLU
